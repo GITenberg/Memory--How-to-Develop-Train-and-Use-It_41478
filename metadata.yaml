@@ -19,6 +19,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/d#a662
     - http://www.gutenberg.org/browse/authors/t#a5407
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41478#Memory--How-to-Develop-Train-and-Use-It
 gutenberg_issued: '2012-11-25'
 gutenberg_type: Text
 identifiers:
